@@ -3,6 +3,6 @@
 main()
 {
     cout << "Hello World 2 modified for all PTR !";
-    cout << "Test hook post commit 3";
+    cout << "Test hook pre and post commit 4";
     return 0;
 }
