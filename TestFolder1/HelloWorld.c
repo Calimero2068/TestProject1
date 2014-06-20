@@ -3,7 +3,7 @@
 main()
 {
 	<<<<<<< HEAD
-    cout << "Hello World modified 1 !";
+    cout << "Hello World modified 2 !";
 	=======
 	>>>>>>> PTR_0005
 	<<<<<<< HEAD
