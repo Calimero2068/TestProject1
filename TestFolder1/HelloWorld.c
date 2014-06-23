@@ -3,8 +3,8 @@
 main()
 {
     cout << "Hello World modified 3 !";
-    cout << "tutu";
-    cout << "toto";
-    cout << "patternReplace";
+    cout << "tata";
+    cout << "titi";
+    cout << "patternReplacing";
     return 0;
 }
